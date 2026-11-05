@@ -27,6 +27,7 @@ My focus is turning real business problems into working software — from techni
 ## 🚀 Selected Projects
 
 ### WTS Saúde+ — AI-Powered Health & Wellness Platform
+![WTS Saúde+](images/wts-saude.jpg)
 AI-enabled SaaS platform designed to provide personalized health, nutrition, exercise, wellness, and progress guidance.
 
 Built around conversational AI, personalized user journeys, structured application state, backend APIs, and data-driven experiences.
@@ -34,7 +35,7 @@ Built around conversational AI, personalized user journeys, structured applicati
 `AI` `SaaS` `Python` `FastAPI` `APIs` `LLM`
 
 ### WTS TRITON — AI & IoT Predictive Monitoring
-
+![WTS Triton](images/wts-triton.jpg)
 AI + IoT monitoring solution designed to analyze the operating behavior of water pumps in buildings and schools.
 
 Electrical telemetry is used to identify abnormal operating patterns and support early detection of equipment failures, water leakage risks, and unnecessary energy consumption.
@@ -42,7 +43,7 @@ Electrical telemetry is used to identify abnormal operating patterns and support
 `AI` `IoT` `Monitoring` `Automation` `Data`
 
 ### Brazilian Outlets — Marketplace & AI Automation
-
+![Brazilian Outlets](images/brazilian-outlets.png)
 International B2B/B2C marketplace platform connecting Brazilian products with international buyers.
 
 The platform also includes an AI-powered WhatsApp assistant designed to answer questions and provide guidance related to product exports.
