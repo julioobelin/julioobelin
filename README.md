@@ -27,7 +27,7 @@ My focus is turning real business problems into working software — from techni
 ## 🚀 Selected Projects
 
 ### WTS Saúde+ — AI-Powered Health & Wellness Platform
-![WTS Saúde+](images/WTS%20SAUDE.jpg)
+![WTS Saúde+](images/WTS_SAUDE.png)
 
 AI-enabled SaaS platform designed to provide personalized health, nutrition, exercise, wellness, and progress guidance.
 
